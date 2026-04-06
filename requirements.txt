@@ -1,0 +1,4 @@
+custmotkinter
+pygame
+mutagen
+yt-dlp
